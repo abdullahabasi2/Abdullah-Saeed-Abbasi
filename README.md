@@ -1,4 +1,4 @@
-
+![logo](https://github.com/abdullahabasi2/Abdullah-Saeed-Abbasi/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdullah Abbasi</h1>
 <h3 align="center">A passionate data scientist</h3>
 
